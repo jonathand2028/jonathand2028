@@ -1,4 +1,7 @@
 # Hi, my name is Jonathan👋!
+
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+
 ## About me: 
 I'm a first year at the University of Chicago (Class of 2028). I'm interested in fields relating to Computer Science, Business, and Statistics. 
 
