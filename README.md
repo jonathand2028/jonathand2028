@@ -3,7 +3,6 @@
 ![IMG_3720](https://github.com/user-attachments/assets/2844b2b6-bd0b-414f-9359-1912a2fe35f0)
 
 ## About me!
-_______________________________________
 I'm a first year at the University of Chicago (Class of 2028) and interested in fields relating to Computer Science, Business, and Statistics. 
 
 ## I'm currently learning to code in:
