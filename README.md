@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, my name is Jonathan👋!
+## About me: 
+I'm a first year at the University of Chicago (Class of 2028). I'm interested in fields relating to Computer Science, Business, and Statistics. 
+
+
+
+
 
 <!--
 **jonathand2028/jonathand2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
