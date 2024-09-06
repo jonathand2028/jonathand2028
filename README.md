@@ -1,6 +1,6 @@
-![IMG_3720](https://github.com/user-attachments/assets/2844b2b6-bd0b-414f-9359-1912a2fe35f0)# Hi, my name is Jonathan👋!
+# Hi, my name is Jonathan👋!
 
-[<img src="downloads/IMG_3720.jpeg">]
+![IMG_3720](https://github.com/user-attachments/assets/2844b2b6-bd0b-414f-9359-1912a2fe35f0)
 
 ## About me: 
 I'm a first year at the University of Chicago (Class of 2028). I'm interested in fields relating to Computer Science, Business, and Statistics. 
